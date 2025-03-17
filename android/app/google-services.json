@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "162912217479",
+    "firebase_url": "https://tarcar-f8f5d-default-rtdb.firebaseio.com",
+    "project_id": "tarcar-f8f5d",
+    "storage_bucket": "tarcar-f8f5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162912217479:android:785ba4d1c6e48da803cb22",
+        "android_client_info": {
+          "package_name": "com.example.tarcar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162912217479-gingb3bkqiiq927irfkaaot9thr9nqkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tarcar",
+            "certificate_hash": "2e59cb72da2caa23182f8bb872eaefce328df8ee"
+          }
+        },
+        {
+          "client_id": "162912217479-he0sq0dgpqmt2np2ha7uds3unmkb77tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKgMy0e-WZqqq_eRUTPynsmZ-KslGxGus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162912217479-he0sq0dgpqmt2np2ha7uds3unmkb77tg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "162912217479-uo2vn3137makmken8c6fmd7kfahfg03h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tarcar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
